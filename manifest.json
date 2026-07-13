@@ -1,6 +1,6 @@
 {
   "name": "SmartTV_Live",
-  "version_number": "0.1",
+  "version_number": "0.1.0",
   "website_url": "https://github.com/forderdev/VotV-SmartTV-Live",
   "description": "Unofficial live-stream relay extension for Moddy's SmartTV. Bundles yt-dlp, Deno and FFmpeg for one-click r2modman installation.",
   "dependencies": [
